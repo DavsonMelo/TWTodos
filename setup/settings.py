@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "todos.apps.TodosConfig",
     "crispy_forms",
     "crispy_bootstrap5",
+    "bootstrap_datepicker_plus"
 ]
 
 MIDDLEWARE = [
